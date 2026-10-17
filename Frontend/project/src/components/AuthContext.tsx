@@ -17,7 +17,7 @@ import {
 
 const API_URL =
   import.meta.env.VITE_API_URL ||
-  "https://pythonfastapi-production-f08a.up.railway.app";
+  "https://full-stack-site-tau.vercel.app";
 
 // =========================================================
 // TYPES
